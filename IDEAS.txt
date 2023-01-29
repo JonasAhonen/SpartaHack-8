@@ -1,0 +1,4 @@
+- Language learning app that has movies and shows in target language
+- Using Firebase for design, implement python compatibilty
+- Implement a rating/recommendation algorithm
+- Search box with prompts for app
